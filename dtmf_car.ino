@@ -1,3 +1,5 @@
+//append all pins as per use
+
 int D0 = ;
 int D1 = ;
 int D2 = ;
